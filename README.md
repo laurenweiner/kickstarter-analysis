@@ -1,4 +1,6 @@
 # An Analysis of Kickstarter Campaigns
+GW Data Analytics Bootcamp - Module 1: VBA
+
 Performing analysis on Kickstarter data to uncover trends
 
 **Overview of Project**
